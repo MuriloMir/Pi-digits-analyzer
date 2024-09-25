@@ -6,3 +6,5 @@ It is just a funny experiment, it read a file with 1 billion digits of pi and th
 The letters were counted to see how often each appeared, also the letters were examined to find words in them, each word was counted to see how often it appeared too. Some letters barely appeared, some words also appeared rarely, whereas others appeared all the time.
 
 All results can be found in the "all results.zip" file.
+
+If you want to compile and run it yourself then you must download the arsd library, which can be found here on this page, and you must download a text file with a billion digits of pi, search for it on Google. Remember to compile it with "dmd 'name' -m64 -i -O -g".
