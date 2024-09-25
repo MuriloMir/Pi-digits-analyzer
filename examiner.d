@@ -1,4 +1,4 @@
-// This software will examine the letters extracted from the pi digits, in order to find words in them. 
+// This software will examine the letters extracted from the pi digits, in order to find words in them.
 
 // import the tools we need
 import std.algorithm : canFind, count;
