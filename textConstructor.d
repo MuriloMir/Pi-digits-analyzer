@@ -10,6 +10,7 @@ import std.file : readText, write;
 import std.range : iota;
 import std.stdio : writeln;
 
+// start the software
 void main()
 {
     // this char will hold each individual letter
