@@ -17,6 +17,7 @@ import std.range : iota;
 import std.stdio : readln, writeln;
 import std.string : chomp;
 
+// start the software
 void main()
 {
     // this array will hold the 30,000 numbers extracted from the pi digits, they will be used to make the pixel RGB numbers
