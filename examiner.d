@@ -9,6 +9,7 @@ import std.parallelism : parallel;
 import std.range : iota;
 import std.stdio : writeln;
 
+// start the software
 void main()
 {
     // tell the user what is happening
