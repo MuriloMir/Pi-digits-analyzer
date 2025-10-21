@@ -8,8 +8,8 @@
 */
 
 // import the tools we need
-import arsd.jpeg : writeJpeg;
-import arsd.simpledisplay : Color, Image;
+import multimedia.display : Color, Image;
+import multimedia.jpeg : writeJpeg;
 import std.array : array;
 import std.conv : to;
 import std.file : readText;
