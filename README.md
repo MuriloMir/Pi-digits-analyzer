@@ -7,4 +7,4 @@ The letters were counted to see how often each appeared, also the letters were e
 
 All results can be found in the "all results.zip" file.
 
-If you want to compile and run it yourself then you must download the arsd library, which can be found here on this page, and you must download a text file with a billion digits of pi, search for it on Google. Remember to compile it with "dmd 'name' -m64 -i -O -g".
+If you want to compile and run it yourself then you must download the multimedia library, which can be found here on this page, and you must download a text file with a billion digits of pi, search for it on Google. Remember to compile it with "dmd 'name' -m64 -i -O -g".
